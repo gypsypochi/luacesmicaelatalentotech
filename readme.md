@@ -27,4 +27,5 @@ El sitio está compuesto por las siguientes secciones:
 - Tarjetas de productos con efecto `hover`.
 - Estética colorida y amigable con fuentes modernas.
 - Efectos visuales y espaciado pensado para la experiencia del usuario.
+- Logos e imagenees creadas con Canva y su inteligencia artifical
 
